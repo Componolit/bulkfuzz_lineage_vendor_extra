@@ -1,1 +1,1 @@
-PRODUCT_PACKAGES += static_busybox nbd-client
+PRODUCT_PACKAGES += static_busybox nbd-client AppFuzzer
